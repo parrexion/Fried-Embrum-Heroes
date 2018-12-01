@@ -74,23 +74,13 @@ public class MapClicker : MonoBehaviour, IPointerDownHandler {
 					currentMode.value = ActionMode.NONE;
 					mapCreator.ResetMap();
 				}
-				else if (tile.attackable && temp.faction == Faction.ENEMY) {
+				else if ((tile.attackable && temp.faction == Faction.ENEMY) || 
+				         (tile.supportable && temp.faction == Faction.PLAYER)) {
 					if (tile == attackTarget.value) {
 						EndDrag();
 					}
 					else {
-						currentMode.value = ActionMode.ATTACK;
-						attackTarget.value = tile;
-						lastTarget.value = lastSelectedCharacter.value.CalculateCorrectMoveTile(lastTarget.value, attackTarget.value);
-						lastSelectedCharacter.value.ShowMove(lastTarget.value);
-					}
-				}
-				else if (tile.supportable && temp.faction == Faction.PLAYER) {
-					if (tile == attackTarget.value) {
-						EndDrag();
-					}
-					else {
-						currentMode.value = ActionMode.HEAL;
+						currentMode.value = (temp.faction == Faction.PLAYER) ? ActionMode.HEAL : ActionMode.ATTACK;
 						attackTarget.value = tile;
 						lastTarget.value = lastSelectedCharacter.value.CalculateCorrectMoveTile(lastTarget.value, attackTarget.value);
 						lastSelectedCharacter.value.ShowMove(lastTarget.value);
@@ -119,10 +109,6 @@ public class MapClicker : MonoBehaviour, IPointerDownHandler {
 				if (clickedChar.faction == currentTurn.value)
 					currentMode.value = ActionMode.MOVE;
 			}
-		}
-		else {
-			lastSelectedCharacter.value = null;
-			Debug.Log("NULL!?");
 		}
 		characterClicked.Invoke();
 		hideTooltipEvent.Invoke();
@@ -182,6 +168,9 @@ public class MapClicker : MonoBehaviour, IPointerDownHandler {
 		attackTarget.value = null;
 	}
 
+	/// <summary>
+	/// Called from event when the battle is finished.
+	/// </summary>
 	public void BattleEnd() {
 		currentMode.value = ActionMode.NONE;
 		lastTarget.value = null;
@@ -205,6 +194,9 @@ public class MapClicker : MonoBehaviour, IPointerDownHandler {
 		CharacterClicked(x,y);
 	}
 
+	/// <summary>
+	/// Called by the end turn button.
+	/// </summary>
 	public void EndButtonClicked() {
 		if (lastSelectedCharacter.value != null && !lastSelectedCharacter.value.IsAlive())
 			lastSelectedCharacter.value = null;
@@ -225,32 +217,4 @@ public class MapClicker : MonoBehaviour, IPointerDownHandler {
 			}
 		}
 	}
-
-//	public void ShowAttack() {
-//		if (lastSelectedCharacter.value == null || TurnController.busy)
-//			return;
-//
-//		Debug.Log("Show your moves!");
-//		currentMode.value = ActionMode.ATTACK;
-//		mapCreator.ResetMap();
-//		lastSelectedCharacter.value.FindAllAttackTiles();
-//	}
-//
-//	public void ShowHeal() {
-//		if (lastSelectedCharacter.value == null || TurnController.busy)
-//			return;
-//
-//		Debug.Log("Show your heals!");
-//		currentMode.value = ActionMode.HEAL;
-//		mapCreator.ResetMap();
-//		lastSelectedCharacter.value.FindAllHealTiles();
-//	}
-
-//	public void WaitCharacter() {
-//		if (lastSelectedCharacter.value == null || TurnController.busy)
-//			return;
-//		
-//		Debug.Log("Wait time!");
-//		lastSelectedCharacter.value.End();
-//	}
 }

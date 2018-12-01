@@ -84,7 +84,6 @@ MonoBehaviour:
   currentOrbs: {fileID: 11400000, guid: 51498950df8a8664fa50b66b130dbd65, type: 2}
   equippedUnits: {fileID: 11400000, guid: 25b8eb6286346eb4fa99d6f74ece6b53, type: 2}
   availableUnits: {fileID: 11400000, guid: cf29fce9ee9388e4290741fe2d10bab5, type: 2}
-  enemyUnits: {fileID: 11400000, guid: f3088abe61b627947aacdf6d70b2afbb, type: 2}
   charList:
   - {fileID: 11400000, guid: ae86d015d235f1c4c8956ecbcaeb2ba4, type: 2}
   - {fileID: 11400000, guid: 973fd53084d53964687847aec39cce79, type: 2}

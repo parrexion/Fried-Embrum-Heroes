@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="494fbf05-575c-465c-bb39-0858fc6c7e54" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MapCreatorEditor2.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/NewGame/Scripts/Editor/MapCreatorEditor2.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+              <folding>
+                <marker date="1529910753977" expanded="false" signature="6:72" ph="..." />
+                <marker date="1529910753977" expanded="true" signature="150:481" ph="{...}" />
+                <marker date="1529910753977" expanded="true" signature="192:477" ph="{...}" />
+                <marker date="1529910753977" expanded="true" signature="338:474" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapCreator2.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/NewGame/Scripts/MapCreator2.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="44" column="49" selection-start-line="44" selection-start-column="49" selection-end-line="44" selection-end-column="49" />
+              <folding>
+                <marker date="1528716503568" expanded="false" signature="6:78" ph="..." />
+                <marker date="1528716503568" expanded="true" signature="121:979" ph="{...}" />
+                <marker date="1528716503568" expanded="true" signature="230:302" ph="{...}" />
+                <marker date="1528716503568" expanded="true" signature="273:299" ph="{...}" />
+                <marker date="1528716503568" expanded="true" signature="344:375" ph="{...}" />
+                <marker date="1528716503568" expanded="true" signature="416:529" ph="{...}" />
+                <marker date="1528716503568" expanded="true" signature="535:562" ph="/* EDITOR STUFF ... */" />
+                <marker date="1528716503568" expanded="true" signature="595:976" ph="{...}" />
+                <marker date="1528716503568" expanded="true" signature="776:973" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapClicker2.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/NewGame/Scripts/MapClicker2.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <folding>
+                <marker date="1529911019944" expanded="false" signature="6:136" ph="..." />
+                <marker date="1529911019944" expanded="true" signature="200:657" ph="{...}" />
+                <marker date="1529911019944" expanded="true" signature="284:379" ph="{...}" />
+                <marker date="1529911019944" expanded="true" signature="436:655" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapTile2.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/NewGame/Scripts/MapTile2.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <folding>
+                <marker date="1529911014507" expanded="false" signature="6:103" ph="..." />
+                <marker date="1529911014507" expanded="true" signature="143:813" ph="{...}" />
+                <marker date="1529911014507" expanded="true" signature="405:470" ph="{...}" />
+                <marker date="1529911014507" expanded="true" signature="497:524" ph="{...}" />
+                <marker date="1529911014507" expanded="true" signature="560:764" ph="{...}" />
+                <marker date="1529911014507" expanded="true" signature="633:690" ph="{...}" />
+                <marker date="1529911014507" expanded="true" signature="690:724" ph="{...}" />
+                <marker date="1529911014507" expanded="true" signature="788:810" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>MapTile</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>MapTile2</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/FullGame/Scripts/MapCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NewGame/Scripts/MapTile2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FullGame/Scripts/MapClicker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NewGame/Scripts/Editor/MapCreatorEditor2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NewGame/Scripts/MapClicker2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NewGame/Scripts/MapCreator2.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/ConstValues.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MapClicker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveController.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewGame/Scripts/n_MapCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/FullGame/Scripts/MapCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewGame/Scripts/MapCreatorEditor2.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewGame/Scripts/MapCreator2.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewGame/Scripts/Editor/MapCreatorEditor2.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewGame/Scripts/MapTile2.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewGame/Scripts/MapClicker2.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="512" />
+    <option name="y" value="62" />
+    <option name="width" value="1415" />
+    <option name="height" value="975" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Fried Embrum Heroes" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Fried Embrum Heroes (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Fried Embrum Heroes (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Fried Embrum Heroes (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="NewGame" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Fried Embrum Heroes (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="NewGame" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Fried Embrum Heroes (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp-Editor" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Fried Embrum Heroes (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp-Editor" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="NewGame" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Fried Embrum Heroes (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp-Editor" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="NewGame" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Fried Embrum Heroes (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp-Editor" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="NewGame" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Editor" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="410" y="50" width="1132" height="780" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25839552" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="true" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/NewGame/Scripts/MapCreator2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="49" selection-start-line="44" selection-start-column="49" selection-end-line="44" selection-end-column="49" />
+          <folding>
+            <marker date="1528716503568" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528716503568" expanded="true" signature="121:979" ph="{...}" />
+            <marker date="1528716503568" expanded="true" signature="230:302" ph="{...}" />
+            <marker date="1528716503568" expanded="true" signature="273:299" ph="{...}" />
+            <marker date="1528716503568" expanded="true" signature="344:375" ph="{...}" />
+            <marker date="1528716503568" expanded="true" signature="416:529" ph="{...}" />
+            <marker date="1528716503568" expanded="true" signature="535:562" ph="/* EDITOR STUFF ... */" />
+            <marker date="1528716503568" expanded="true" signature="595:976" ph="{...}" />
+            <marker date="1528716503568" expanded="true" signature="776:973" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NewGame/Scripts/Editor/MapCreatorEditor2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+          <folding>
+            <marker date="1529910753977" expanded="false" signature="6:72" ph="..." />
+            <marker date="1529910753977" expanded="true" signature="150:481" ph="{...}" />
+            <marker date="1529910753977" expanded="true" signature="192:477" ph="{...}" />
+            <marker date="1529910753977" expanded="true" signature="338:474" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NewGame/Scripts/MapTile2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+          <folding>
+            <marker date="1529911014507" expanded="false" signature="6:103" ph="..." />
+            <marker date="1529911014507" expanded="true" signature="143:813" ph="{...}" />
+            <marker date="1529911014507" expanded="true" signature="405:470" ph="{...}" />
+            <marker date="1529911014507" expanded="true" signature="497:524" ph="{...}" />
+            <marker date="1529911014507" expanded="true" signature="560:764" ph="{...}" />
+            <marker date="1529911014507" expanded="true" signature="633:690" ph="{...}" />
+            <marker date="1529911014507" expanded="true" signature="690:724" ph="{...}" />
+            <marker date="1529911014507" expanded="true" signature="788:810" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NewGame/Scripts/MapClicker2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <marker date="1529911019944" expanded="false" signature="6:136" ph="..." />
+            <marker date="1529911019944" expanded="true" signature="200:657" ph="{...}" />
+            <marker date="1529911019944" expanded="true" signature="284:379" ph="{...}" />
+            <marker date="1529911019944" expanded="true" signature="436:655" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FullGame/Scripts/MapClicker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2790">
+          <caret line="190" selection-start-line="190" selection-end-line="190" />
+          <folding>
+            <marker date="1528613715856" expanded="false" signature="6:136" ph="..." />
+            <marker date="1528613715856" expanded="true" signature="199:6337" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="617:725" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="771:2674" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="890:2641" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="1002:1183" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="1126:1177" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="1183:1228" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="1343:1836" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="1403:1623" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="1441:1468" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="1468:1616" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="1623:1830" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="1887:2067" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="2203:2602" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="2242:2267" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="2267:2596" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="2713:3268" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="2970:3207" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="3048:3203" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="3308:4688" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="3508:3642" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="3671:3875" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="3927:4266" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="4319:4656" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="4713:4794" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="4747:4791" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="4824:4961" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="4964:5045" ph="/// Called from event when the battle is finished. ... " />
+            <marker date="1528613715856" expanded="true" signature="5071:5199" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="5202:5344" ph="/// Handles the clicks that don't hit any of the characters in the scene. ... " />
+            <marker date="1528613715856" expanded="true" signature="5400:5691" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="5694:5759" ph="/// Called by the end turn button. ... " />
+            <marker date="1528613715856" expanded="true" signature="5792:6044" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="6090:6335" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="6208:6332" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="6268:6328" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Characters/Passives/CombatBoost.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConstValues.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MapClicker.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Characters/Passives/CombatBoost.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConstValues.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SaveController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MapClicker.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/NewGame/Scripts/n_MapCreator.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/FullGame/Scripts/MapCreator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NewGame/Scripts/MapCreatorEditor2.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/FullGame/Scripts/MapClicker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2790">
+          <caret line="190" selection-start-line="190" selection-end-line="190" />
+          <folding>
+            <marker date="1528613715856" expanded="false" signature="6:136" ph="..." />
+            <marker date="1528613715856" expanded="true" signature="199:6337" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="617:725" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="771:2674" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="890:2641" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="1002:1183" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="1126:1177" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="1183:1228" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="1343:1836" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="1403:1623" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="1441:1468" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="1468:1616" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="1623:1830" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="1887:2067" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="2203:2602" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="2242:2267" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="2267:2596" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="2713:3268" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="2970:3207" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="3048:3203" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="3308:4688" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="3508:3642" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="3671:3875" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="3927:4266" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="4319:4656" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="4713:4794" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="4747:4791" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="4824:4961" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="4964:5045" ph="/// Called from event when the battle is finished. ... " />
+            <marker date="1528613715856" expanded="true" signature="5071:5199" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="5202:5344" ph="/// Handles the clicks that don't hit any of the characters in the scene. ... " />
+            <marker date="1528613715856" expanded="true" signature="5400:5691" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="5694:5759" ph="/// Called by the end turn button. ... " />
+            <marker date="1528613715856" expanded="true" signature="5792:6044" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="6090:6335" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="6208:6332" ph="{...}" />
+            <marker date="1528613715856" expanded="true" signature="6268:6328" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NewGame/Scripts/MapTile2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <marker date="1529911014507" expanded="false" signature="6:103" ph="..." />
+            <marker date="1529911014507" expanded="true" signature="143:813" ph="{...}" />
+            <marker date="1529911014507" expanded="true" signature="405:470" ph="{...}" />
+            <marker date="1529911014507" expanded="true" signature="497:524" ph="{...}" />
+            <marker date="1529911014507" expanded="true" signature="560:764" ph="{...}" />
+            <marker date="1529911014507" expanded="true" signature="633:690" ph="{...}" />
+            <marker date="1529911014507" expanded="true" signature="690:724" ph="{...}" />
+            <marker date="1529911014507" expanded="true" signature="788:810" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NewGame/Scripts/MapClicker2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <marker date="1529911019944" expanded="false" signature="6:136" ph="..." />
+            <marker date="1529911019944" expanded="true" signature="200:657" ph="{...}" />
+            <marker date="1529911019944" expanded="true" signature="284:379" ph="{...}" />
+            <marker date="1529911019944" expanded="true" signature="436:655" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NewGame/Scripts/MapCreator2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="44" column="49" selection-start-line="44" selection-start-column="49" selection-end-line="44" selection-end-column="49" />
+          <folding>
+            <marker date="1528716503568" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528716503568" expanded="true" signature="121:979" ph="{...}" />
+            <marker date="1528716503568" expanded="true" signature="230:302" ph="{...}" />
+            <marker date="1528716503568" expanded="true" signature="273:299" ph="{...}" />
+            <marker date="1528716503568" expanded="true" signature="344:375" ph="{...}" />
+            <marker date="1528716503568" expanded="true" signature="416:529" ph="{...}" />
+            <marker date="1528716503568" expanded="true" signature="535:562" ph="/* EDITOR STUFF ... */" />
+            <marker date="1528716503568" expanded="true" signature="595:976" ph="{...}" />
+            <marker date="1528716503568" expanded="true" signature="776:973" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NewGame/Scripts/Editor/MapCreatorEditor2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding>
+            <marker date="1529910753977" expanded="false" signature="6:72" ph="..." />
+            <marker date="1529910753977" expanded="true" signature="150:481" ph="{...}" />
+            <marker date="1529910753977" expanded="true" signature="192:477" ph="{...}" />
+            <marker date="1529910753977" expanded="true" signature="338:474" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

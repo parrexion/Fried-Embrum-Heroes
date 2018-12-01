@@ -10,5 +10,5 @@ public static class ConstValues {
 	public const float MOVEMENT_SPEED = 4;
 
 	public const int AVAILABLE_SIZE = 8;
-	public const int EQUIPPED_SIZE = 8;
+	public const int EQUIPPED_SIZE = 4;
 }

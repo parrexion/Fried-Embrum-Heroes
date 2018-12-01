@@ -27,7 +27,6 @@ public class SaveController : MonoBehaviour {
 	public IntVariable currentOrbs;
 	public SaveListVariable equippedUnits;
 	public SaveListVariable availableUnits;
-	public SaveListVariable enemyUnits;
 
 	public CharacterStats[] charList;
 	
@@ -37,11 +36,9 @@ public class SaveController : MonoBehaviour {
 	private void Initialize() {
 		_savePath = Application.persistentDataPath+"/saveData.xml";
 		Load();
-//		Save();
 	}
 
 	public void Save() {
-//		UpdateData();
 		SaveData data = new SaveData {currentObrs = currentOrbs.value};
 		data.StoreData(equippedUnits.values, availableUnits.values);
 		
